@@ -1,11 +1,11 @@
 ﻿namespace Exercise1
 
 {
-    internal class Session_2
+    internal class Session02
 
 
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             //Question_01();
             //Question_02();
