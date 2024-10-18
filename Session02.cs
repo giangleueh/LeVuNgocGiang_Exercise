@@ -1,4 +1,4 @@
-﻿namespace Exercise1
+﻿namespace LeVuNgocGiang_Exercise
 
 {
     internal class Session02
