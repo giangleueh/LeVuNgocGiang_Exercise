@@ -5,8 +5,9 @@
         public static void Main(string[] args)
         {
             //Question_01();
-            
-            Question_02();
+
+            //Question_02();
+            Question_03();
 
 
             Console.WriteLine("Press any key to stop");
@@ -43,7 +44,7 @@
             double s = (4 / 3) * P * a;
             double v = (4 / 3) * P * b;
 
-            Console.WriteLine($@"Srface: {s}
+            Console.WriteLine($@"Surface: {s}
 Volume: {v}");
 
 
@@ -62,9 +63,14 @@ Volume: {v}");
             int add = a + b;
             int s = a - b;
             int mul = a * b;
-            int d = a * b;
+            int d = a / b;
+            int m = a % b;
 
-            Console.WriteLine($@"tong 
+            Console.WriteLine($@" {a} + {b} = {add}
+{a} - {b} = {s}  
+{a} * {b} = {mul}
+{a} / {b} = {d}
+{a} % {b} = {m}");
 
 
 
