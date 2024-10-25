@@ -2,7 +2,7 @@
 {
     internal class Session03
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             //Question_01();
 
