@@ -3,7 +3,7 @@ namespace LeVuNgocGiang_Exercise
 {
     internal class Session06
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             //Ex01();
             Question00();
